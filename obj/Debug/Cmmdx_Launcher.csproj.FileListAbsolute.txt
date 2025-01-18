@@ -1,0 +1,94 @@
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe.config
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.pdb
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.AssemblyReference.cache
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Form1.resources
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Properties.Resources.resources
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.GenerateResource.cache
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.exe
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.pdb
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.LoginScreen.resources
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_La.A6243C0B.Up2Date
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.MainPage.resources
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\CmlLib.dll
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.dll
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hosted\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.xml
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe.config
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.pdb
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\CmlLib.dll
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.dll
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.xml
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.AssemblyReference.cache
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Form1.resources
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.LoginScreen.resources
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.MainPage.resources
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Properties.Resources.resources
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.GenerateResource.cache
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_La.A6243C0B.Up2Date
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.exe
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.pdb
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\MCServerStatus.dll
+C:\Users\cmmdx\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.BG23.resources
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe.config
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.pdb
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\CmlLib.dll
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\MCServerStatus.dll
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.dll
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.xml
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.AssemblyReference.cache
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Form1.resources
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.LoginScreen.resources
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.MainPage.resources
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Properties.Resources.resources
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.GenerateResource.cache
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_La.A6243C0B.Up2Date
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.exe
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.pdb
+C:\Users\Theco\Desktop\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Launcher_Cmd.resources
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe.config
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.exe
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Cmmdx_Launcher.pdb
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\CmlLib.dll
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\MCServerStatus.dll
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.dll
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\bin\Debug\SevenZip.xml
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.AssemblyReference.cache
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Form1.resources
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Launcher_Cmd.resources
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.LoginScreen.resources
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.MainPage.resources
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.Properties.Resources.resources
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.GenerateResource.cache
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_La.A6243C0B.Up2Date
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.exe
+C:\Users\Theco\Desktop\My Projects\Launcher\Cmmdx_Launcher\Cmmdx_Launcher\obj\Debug\Cmmdx_Launcher.pdb
